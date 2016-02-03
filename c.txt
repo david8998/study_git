@@ -1,0 +1,2 @@
+this c.txt
+and this is sencond commit

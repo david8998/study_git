@@ -1,2 +1,3 @@
 this a.txt
+and this is the 4 to write file
 
